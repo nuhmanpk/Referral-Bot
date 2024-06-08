@@ -9,8 +9,10 @@
 
 ## Screenshots
 
-![image]('./assets/1.jpg') <br>
-![image]('./assets/2.jpg')<br>
-![image]('./assets/3.jpg')<br>
-![image]('./assets/4.jpg')<br>
+<img src='./assets/1.jpg'/><br><br><br>
+<img src='./assets/2.jpg'/><br><br>
+<img src='./assets/3.jpg'/><br><br>
+<img src='./assets/4.jpg'/><br><br>
 
+
+Do follow for [more](https://github.com/nuhmanpk) 
