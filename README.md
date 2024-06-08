@@ -9,8 +9,8 @@
 
 ## Screenshots
 
-![image]('https://github.com/nuhmanpk/Referral-Bot/blob/main/assets/1.jpg') <br>
-![image]('https://github.com/nuhmanpk/Referral-Bot/blob/main/assets/2.jpg')<br>
-![image]('https://github.com/nuhmanpk/Referral-Bot/blob/main/assets/3.jpg')<br>
-![image]('https://github.com/nuhmanpk/Referral-Bot/blob/main/assets/4.jpg')<br>
+![image]('./assets/1.jpg') <br>
+![image]('./assets/2.jpg')<br>
+![image]('./assets/3.jpg')<br>
+![image]('./assets/4.jpg')<br>
 
