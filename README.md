@@ -8,3 +8,9 @@
 3. **User Information Display:** Referrers can view basic information about the users they've referred, including their username, first name, last name, phone number (if available), and whether they are a bot or not.
 
 ## Screenshots
+
+![image]('https://github.com/nuhmanpk/Referral-Bot/blob/main/assets/1.jpg') <br>
+![image]('https://github.com/nuhmanpk/Referral-Bot/blob/main/assets/2.jpg')<br>
+![image]('https://github.com/nuhmanpk/Referral-Bot/blob/main/assets/3.jpg')<br>
+![image]('https://github.com/nuhmanpk/Referral-Bot/blob/main/assets/4.jpg')<br>
+
